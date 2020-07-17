@@ -4,4 +4,4 @@
 print("Hello World!")
 
 # Option 2:
-#Type in idle environment : Hello World
+#Type in idle environment : 'Hello World'
