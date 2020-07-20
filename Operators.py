@@ -2,6 +2,7 @@
 #They are of 4 types:Assignment,Arithmetic,Logical,Relational/Coparision.
 #Assignment operator is used to assign values & denoted by "=" .
 a = 99
+print (a)
 
 #Arithmetic operators are +,-,*,/
 #Addition (+):Returns Sum
