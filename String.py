@@ -40,3 +40,7 @@ print ()
 
 # String formatting in Python is used if one need one string in betwwen of another.
 print ('According to me: {}'.format(FruitName) )
+print()
+
+# To print a string in reverse.
+print(FruitName[::-1])
